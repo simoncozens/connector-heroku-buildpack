@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "AOT emitter"
+exit 0
